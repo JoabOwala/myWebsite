@@ -9,4 +9,9 @@
     border: 2px solid blue;
     width: 400px;
     height: 400px;
+}
+
+.btn{
+    text-align: center;
+    margin: 10px; 
   }
